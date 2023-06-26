@@ -49,8 +49,8 @@ export default function header() {
                           <div class="xton-responsive-menu">
                               <div class="logo">
                                   <a href="index.html">
-                                      <img src="assets/img/logo.png" class="main-logo" alt="logo"/>
-                                          <img src="assets/img/white-logo.png" class="white-logo" alt="logo"/>
+                                      <img src="img/logo.png" class="main-logo" alt="logo"/>
+                                          <img src="img/white-logo.png" class="white-logo" alt="logo"/>
                                           </a>
                                       </div>
                               </div>
@@ -61,8 +61,8 @@ export default function header() {
                           <div class="container-fluid">
                               <nav class="navbar navbar-expand-md navbar-light">
                                   <a class="navbar-brand" href="index.html">
-                                      <img src="assets/img/logo.png" class="main-logo" alt="logo"/>
-                                          <img src="assets/img/white-logo.png" class="white-logo" alt="logo"/>
+                                      <img src="img/logo.png" class="main-logo" alt="logo"/>
+                                          <img src="img/white-logo.png" class="white-logo" alt="logo"/>
                                           </a>
 
                                           <div class="collapse navbar-collapse mean-menu">
@@ -121,8 +121,8 @@ export default function header() {
                               <div class="container-fluid">
                                   <nav class="navbar navbar-expand-md navbar-light">
                                       <a class="navbar-brand" href="index.html">
-                                          <img src="assets/img/logo.png" class="main-logo" alt="logo"/>
-                                              <img src="assets/img/white-logo.png" class="white-logo" alt="logo"/>
+                                          <img src="img/logo.png" class="main-logo" alt="logo"/>
+                                              <img src="img/white-logo.png" class="white-logo" alt="logo"/>
                                               </a>
 
                                               <div class="collapse navbar-collapse mean-menu">

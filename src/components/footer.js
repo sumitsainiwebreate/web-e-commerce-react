@@ -71,7 +71,7 @@ export default function footer() {
 
                                   <form class="newsletter-form" data-bs-toggle="validator">
                                       <label>Your E-mail Address:</label>
-                                      <input type="email" class="input-newsletter" placeholder="Enter your email" name="EMAIL" required autocomplete="off">
+                                      <input type="email" class="input-newsletter" placeholder="Enter your email" name="EMAIL" required autocomplete="off"/>
                                           <button type="submit">Subscribe</button>
                                           <div id="validator-newsletter" class="form-result"></div>
                                   </form>
@@ -88,11 +88,11 @@ export default function footer() {
 
                           <div class="col-lg-6 col-md-6">
                               <ul class="payment-types">
-                                  <li><a href="#" target="_blank"><img src="assets/img/payment/visa.png" alt="image"></a></li>
-                                  <li><a href="#" target="_blank"><img src="assets/img/payment/mastercard.png" alt="image"></a></li>
-                                  <li><a href="#" target="_blank"><img src="assets/img/payment/mastercard2.png" alt="image"></a></li>
-                                  <li><a href="#" target="_blank"><img src="assets/img/payment/visa2.png" alt="image"></a></li>
-                                  <li><a href="#" target="_blank"><img src="assets/img/payment/expresscard.png" alt="image"></a></li>
+                                  <li><a href="#" target="_blank"><img src="img/payment/visa.png" alt="image"/></a></li>
+                                  <li><a href="#" target="_blank"><img src="img/payment/mastercard.png" alt="image"/></a></li>
+                                  <li><a href="#" target="_blank"><img src="img/payment/mastercard2.png" alt="image"/></a></li>
+                                  <li><a href="#" target="_blank"><img src="img/payment/visa2.png" alt="image"/></a></li>
+                                  <li><a href="#" target="_blank"><img src="img/payment/expresscard.png" alt="image"/></a></li>
                               </ul>
                           </div>
                       </div>
