@@ -17,64 +17,64 @@ export default function Social_media_sec() {
           </div>
           <div className="instagram-slides owl-carousel owl-theme">
             <div className="single-instagram-post">
-              <img src="assets/img/instagram/img3.jpg" alt="image" />
+              <img src="assets/img/instagram/img3.jpg" alt="" />
               <Link href="#" target="_blank"><i className="bx bxl-instagram" />@xton</Link>
-              {/* <a href="#" target="_blank" class="link-btn"></a> */}
+              {/* <Link href="#" target="_blank" class="link-btn"></Link> */}
             </div>
             <div className="single-instagram-post">
-              <img src="assets/img/instagram/img3.jpg" alt="image" />
+              <img src="assets/img/instagram/img3.jpg" alt="" />
               <Link href="#" target="_blank"><i className="bx bxl-instagram" />@xton</Link>
-              {/* <a href="#" target="_blank" class="link-btn"></a> */}
+              {/* <Link href="#" target="_blank" class="link-btn"></Link> */}
             </div>
             <div className="single-instagram-post">
-              <img src="assets/img/instagram/img3.jpg" alt="image" />
+              <img src="assets/img/instagram/img3.jpg" alt="" />
               <Link href="#" target="_blank"><i className="bx bxl-instagram" />@xton</Link>
-              {/* <a href="#" target="_blank" class="link-btn"></a> */}
+              {/* <Link href="#" target="_blank" class="link-btn"></Link> */}
             </div>
             <div className="single-instagram-post">
-              <img src="assets/img/instagram/img3.jpg" alt="image" />
+              <img src="assets/img/instagram/img3.jpg" alt="" />
               <Link href="#" target="_blank"><i className="bx bxl-instagram" />@xton</Link>
-              {/* <a href="#" target="_blank" class="link-btn"></a> */}
+              {/* <Link href="#" target="_blank" class="link-btn"></Link> */}
             </div>
             <div className="single-instagram-post">
-              <img src="assets/img/instagram/img3.jpg" alt="image" />
+              <img src="assets/img/instagram/img3.jpg" alt="" />
               <Link href="#" target="_blank"><i className="bx bxl-instagram" />@xton</Link>
-              {/* <a href="#" target="_blank" class="link-btn"></a> */}
+              {/* <Link href="#" target="_blank" class="link-btn"></Link> */}
             </div>
             <div className="single-instagram-post">
-              <img src="assets/img/instagram/img3.jpg" alt="image" />
+              <img src="assets/img/instagram/img3.jpg" alt="" />
               <Link href="#" target="_blank"><i className="bx bxl-instagram" />@xton</Link>
-              {/* <a href="#" target="_blank" class="link-btn"></a> */}
+              {/* <Link href="#" target="_blank" class="link-btn"></Link> */}
             </div>
             <div className="single-facebook-post">
-              <img src="assets/img/instagram/img7.jpg" alt="image" />
+              <img src="assets/img/instagram/img7.jpg" alt="" />
               <Link href="#" target="_blank"><i className="bx bxl-facebook" />@xton</Link>
-              {/* <a href="#" target="_blank" class="link-btn"></a> */}
+              {/* <Link href="#" target="_blank" class="link-btn"></Link> */}
             </div>
             <div className="single-facebook-post">
-              <img src="assets/img/instagram/img7.jpg" alt="image" />
+              <img src="assets/img/instagram/img7.jpg" alt="" />
               <Link href="#" target="_blank"><i className="bx bxl-facebook" />@xton</Link>
-              {/* <a href="#" target="_blank" class="link-btn"></a> */}
+              {/* <Link href="#" target="_blank" class="link-btn"></Link> */}
             </div>
             <div className="single-facebook-post">
-              <img src="assets/img/instagram/img7.jpg" alt="image" />
+              <img src="assets/img/instagram/img7.jpg" alt="" />
               <Link href="#" target="_blank"><i className="bx bxl-facebook" />@xton</Link>
-              {/* <a href="#" target="_blank" class="link-btn"></a> */}
+              {/* <Link href="#" target="_blank" class="link-btn"></Link> */}
             </div>
             <div className="single-facebook-post">
-              <img src="assets/img/instagram/img7.jpg" alt="image" />
+              <img src="assets/img/instagram/img7.jpg" alt="" />
               <Link href="#" target="_blank"><i className="bx bxl-facebook" />@xton</Link>
-              {/* <a href="#" target="_blank" class="link-btn"></a> */}
+              {/* <Link href="#" target="_blank" class="link-btn"></Link> */}
             </div>
             <div className="single-facebook-post">
-              <img src="assets/img/instagram/img7.jpg" alt="image" />
+              <img src="assets/img/instagram/img7.jpg" alt="" />
               <Link href="#" target="_blank"><i className="bx bxl-facebook" />@xton</Link>
-              {/* <a href="#" target="_blank" class="link-btn"></a> */}
+              {/* <Link href="#" target="_blank" class="link-btn"></Link> */}
             </div>
             <div className="single-facebook-post">
-              <img src="assets/img/instagram/img7.jpg" alt="image" />
+              <img src="assets/img/instagram/img7.jpg" alt="" />
               <Link href="#" target="_blank"><i className="bx bxl-facebook" />@xton</Link>
-              {/* <a href="#" target="_blank" class="link-btn"></a> */}
+              {/* <Link href="#" target="_blank" class="link-btn"></Link> */}
             </div>
           </div>
         </div>

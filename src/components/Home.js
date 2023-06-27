@@ -1,11 +1,31 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
+
+
+
 import Social_media_sec from './Social_media_sec'
 
 export default function Home() {
   return (
     <>
+      {/* <!-- Links of CSS files --> */}
+      <link rel="stylesheet" href="css/bootstrap.min.css" />
+      <link rel="stylesheet" href="css/animate.min.css" />
+      <link rel="stylesheet" href="css/boxicons.min.css" />
+      <link rel="stylesheet" href="css/flaticon.css" />
+      <link rel="stylesheet" href="css/magnific-popup.min.css" />
+      <link rel="stylesheet" href="css/nice-select.min.css" />
+      <link rel="stylesheet" href="css/slick.min.css" />
+      <link rel="stylesheet" href="css/owl.carousel.min.css" />
+      <link rel="stylesheet" href="css/meanmenu.min.css" />
+      <link rel="stylesheet" href="css/rangeSlider.min.css" />
+      <link rel="stylesheet" href="css/style.css" />
+      <link rel="stylesheet" href="css/dark.css" />
+      <link rel="stylesheet" href="css/responsive.css" />
+
+
+
       {/* Start Main Banner Area */}
       <div className="home-slides-three owl-carousel owl-theme">
         <div className="hero-banner">
@@ -2086,6 +2106,7 @@ export default function Home() {
 
       
 
+      
 
     
 

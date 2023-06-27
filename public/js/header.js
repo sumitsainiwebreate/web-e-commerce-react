@@ -1,11 +1,11 @@
-$(function(){
-    // $("#header").load("D:\work\webreate\header.html");
+// $(function(){
+//     // $("#header").load("D:\work\webreate\header.html");
 
-    $("#header").load("../../header.html");
-    $("#footer").load("../../footer.html");
-    $("#insta-area").load("../../social-media-sec.html");
+//     $("#header").load("../../header.html");
+//     $("#footer").load("../../footer.html");
+//     $("#insta-area").load("../../social-media-sec.html");
 
-});
+// });
 
 var prevScrollpos = window.pageYOffset;
 window.onscroll = function() {
